@@ -3,25 +3,13 @@
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="eddyhacks" /> </p>
 
-- 🔭 I’m currently working on [Housing Management Project](will be updated soon)
-
+- 🔭 I’m currently working on [Housing Management Project]
 - 🌱 I’m currently learning **Cloud, AppSec, Python**
-
-- 👯 I’m looking to collaborate on [Security projects](will be updated soon)
-
-- 🤝 I’m looking for help with [Back-end development](will be updated soon)
-
-- 👨‍💻 All of my projects are available at [will be coming soon](will be coming soon)
-
-- 📝 I regularly write articles on [will be coming soon](will be coming soon)
-
+- 👯 I’m looking to collaborate on [Security projects]
+- 🤝 I’m looking for help with [Back-end development]
 - 💬 Ask me about **technology including hacks**
-
 - 📫 How to reach me **aditya8122002@gmail.com**
-
-- 📄 Know about my experiences [will be coming soon](will be coming soon)
-
-- ⚡ Fun fact **I think I am different from rest of you guys because i have Aadhar card.**
+- ⚡ Fun fact **Life is boring without coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
