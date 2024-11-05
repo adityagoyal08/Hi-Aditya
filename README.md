@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [Housing Management Project]
 - 🌱 I’m currently learning **Cloud, AppSec, Python**
-- 👯 I’m looking to collaborate on [Security projects]
-- 🤝 I’m looking for help with [Back-end development]
+- 👯 I’m looking to collaborate on Security projects
+- 🤝 I’m looking for help with Back-end development
 - 💬 Ask me about **technology including hacks**
 - 📫 How to reach me **aditya8122002@gmail.com**
 - ⚡ Fun fact **Life is boring without coding**
